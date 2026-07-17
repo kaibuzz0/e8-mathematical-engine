@@ -1,0 +1,51 @@
+{
+  "collection_name": "The True Kinowlege",
+  "location": "/sdcard/hermes brain plug/the true kinowlege",
+  "total_papers": 99,
+  "total_size_mb": 177.43,
+  "categories": {
+    "Mathematical_Physics": 62,
+    "Cohomology": 2,
+    "BRST_Quantization": 10,
+    "Gauge_Theory": 5,
+    "E8_Theory": 1,
+    "Grand_Unification": 2,
+    "Clifford_Algebra": 5,
+    "Supersymmetry": 5,
+    "Lie_Theory": 3,
+    "Differential_Geometry": 3,
+    "Standard_Model": 1
+  },
+  "significant_papers": [
+    "AESToE.pdf",
+    "Doran, Lasenby - Geometric Algebra for Physicists (2003).pdf",
+    "PDG - Review of Particle Physics.pdf",
+    "LBaulieu_BRST.pdf",
+    "Martin - A Supersymmetry Primer.pdf",
+    "Cahill - On the unification of the gravitational and electronuclear forces.pdf",
+    "Cerchiai - Mapping the geometry of the F4 group.pdf",
+    "1104161738.pdf",
+    "The Variational Bicomplex.pdf",
+    "Gauge Theory for Fiber Bundles.pdf"
+  ],
+  "top_mathematical_objects": {
+    "Ghost field": 9,
+    "Cohomology": 9,
+    "BRST charge": 9,
+    "Clifford algebra": 8,
+    "Spinor": 8,
+    "Geometric product": 8,
+    "Supermultiplet": 8,
+    "Supercharge": 8,
+    "Gravitino": 8,
+    "Representation": 7,
+    "Lie group": 7,
+    "Lie algebra": 7,
+    "Gauge field": 6,
+    "Curvature": 6,
+    "Connection": 6,
+    "G2": 1,
+    "F4": 1
+  },
+  "extraction_date": "2024"
+}

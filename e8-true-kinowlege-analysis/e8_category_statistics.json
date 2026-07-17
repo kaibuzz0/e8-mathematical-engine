@@ -1,0 +1,156 @@
+{
+  "Mathematical_Physics": {
+    "count": 62,
+    "papers": [
+      "0002245.pdf",
+      "0011255.pdf",
+      "0203010v2.pdf",
+      "0203040.pdf",
+      "0206136.pdf",
+      "0209337.pdf",
+      "0501191.pdf",
+      "0502182.pdf",
+      "0502443.pdf",
+      "0509097.pdf",
+      "0511120.pdf",
+      "0602414.pdf",
+      "0606122.pdf",
+      "0607014.pdf",
+      "0610039.pdf",
+      "0611154.pdf",
+      "0701489.pdf",
+      "0702065.pdf",
+      "0702134.pdf",
+      "0703034.pdf",
+      "0704.0646v1.pdf",
+      "0704.3091.pdf",
+      "0709.3851v1.pdf",
+      "0910.1828.pdf",
+      "1103922136.pdf",
+      "1104161738.pdf",
+      "9302012.pdf",
+      "9302136.pdf",
+      "9403058.pdf",
+      "9408003.pdf",
+      "9409046.pdf",
+      "9412232.pdf",
+      "9503204.pdf",
+      "9512215.pdf",
+      "9610068.pdf",
+      "9611168.pdf",
+      "9705123.pdf",
+      "9712157.pdf",
+      "9807516.pdf",
+      "9902027.pdf",
+      "9912277.pdf",
+      "CMMarle.pdf",
+      "Cerchiai - Euler angles for G2.pdf",
+      "Doran, Lasenby - Geometric Algebra for Physicists (2003).pdf",
+      "Doran, Lasenby - Geometric algebra for physicists - errata (2003).pdf",
+      "MH Standard Model.pdf",
+      "Remarks on the Frolicher-Nijenhuis Bracket.pdf",
+      "Standard Model.pdf",
+      "Sternberg - Toronto Lectures on Physics.pdf",
+      "The Frolicher-Nijenhuis Bracket.pdf",
+      "The Variational Bicomplex.pdf",
+      "equivariant1.pdf",
+      "nankai.pdf",
+      "oct.pdf",
+      "physicsnotes-supergeo.pdf",
+      "selfdual.ps",
+      "standard model (short).pdf",
+      "supernotes3 (1).pdf",
+      "supernotes3.pdf",
+      "vectorcalc.pdf",
+      "w07week08a.pdf",
+      "yt100sym_georgi.pdf"
+    ]
+  },
+  "Cohomology": {
+    "count": 2,
+    "papers": [
+      "A Differential Geometric Setting for BRS Transformations and Anomalies.pdf",
+      "The Cohomological Construction of Stora's Solutions.pdf"
+    ]
+  },
+  "BRST_Quantization": {
+    "count": 10,
+    "papers": [
+      "A Geometric Interpretation of BRST symmetry.pdf",
+      "BRST2-6 (1).pdf",
+      "BRST2-6.pdf",
+      "Ghiotti - Gauge fixing and BRST formalism in non-Abelian gauge theories.pdf",
+      "JHolten_BRST.pdf",
+      "Kostant Brylinski - Nilpotent Orbits, Normality, and Hamiltonian Group Actions.pdf",
+      "LBaulieu_BRST.pdf",
+      "The BRST Complex and the Cohomology of Compact Lie Algebras.pdf",
+      "localbrst.pdf",
+      "zwart98brst.pdf"
+    ]
+  },
+  "Gauge_Theory": {
+    "count": 5,
+    "papers": [
+      "A Route Towards Gauge Theory.pdf",
+      "Gauge Theory for Fiber Bundles.pdf",
+      "Geometrical aspects of local gauge symmetry.pdf",
+      "Huang - Cosmological Solutions with Torsion in a Model of de Sitter Gauge Theory of Gravity.pdf",
+      "On the Cohomological Structure of Gauge Theories.pdf"
+    ]
+  },
+  "E8_Theory": {
+    "count": 1,
+    "papers": [
+      "AESToE.pdf"
+    ]
+  },
+  "Grand_Unification": {
+    "count": 2,
+    "papers": [
+      "Cahill - On the unification of the gravitational and electronuclear forces.pdf",
+      "Wingerter - Aspects of Grand Unification in Higher Dimensions.pdf"
+    ]
+  },
+  "Clifford_Algebra": {
+    "count": 5,
+    "papers": [
+      "Cerchiai - Mapping the geometry of the F4 group.pdf",
+      "Clifford Algebras and their Representations.pdf",
+      "The Pin Groups in Physics- C, P, and T.pdf",
+      "gossetfigurecliffordalgebra2004.pdf",
+      "loun112.pdf"
+    ]
+  },
+  "Supersymmetry": {
+    "count": 5,
+    "papers": [
+      "Group Geometric Methods in Supergravity and Superstring Theories.pdf",
+      "Ichinose - Graphical Representation of Supersymmetry.pdf",
+      "Martin - A Supersymmetry Primer.pdf",
+      "Peskin - Supersymmetry in Elementary Particle Physics.pdf",
+      "Symmetries of Coset Spaces and Kaluza-Klein Supergravity.pdf"
+    ]
+  },
+  "Lie_Theory": {
+    "count": 3,
+    "papers": [
+      "Loeh - Representation Theory of Lie Algebras.pdf",
+      "Natural Operations on the Bundle of Cartan Connections.pdf",
+      "Semi-Simple Lie Algebras and Their Representation.pdf"
+    ]
+  },
+  "Differential_Geometry": {
+    "count": 3,
+    "papers": [
+      "Natural Operations in Differential Geometry.pdf",
+      "The Geometry of the Space of Fields in Yang-Mills theory.pdf",
+      "Topics in Differential Geometry.pdf"
+    ]
+  },
+  "Standard_Model": {
+    "count": 1,
+    "papers": [
+      "PDG - Review of Particle Physics.pdf"
+    ]
+  }
+}
