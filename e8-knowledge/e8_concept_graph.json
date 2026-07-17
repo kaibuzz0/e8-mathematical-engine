@@ -1,0 +1,410 @@
+{
+  "concepts": {
+    "E8": {
+      "type": "Lie Group",
+      "dimension": 248,
+      "rank": 8,
+      "description": "Largest exceptional Lie group",
+      "related": [
+        "F4",
+        "G2",
+        "E6",
+        "E7",
+        "Exceptional"
+      ],
+      "papers": [
+        "0002245.pdf",
+        "0701489.pdf",
+        "1103922136.pdf",
+        "1104161738.pdf"
+      ]
+    },
+    "F4": {
+      "type": "Lie Group",
+      "dimension": 52,
+      "rank": 4,
+      "description": "Exceptional Lie group",
+      "related": [
+        "E6",
+        "E8",
+        "Exceptional"
+      ],
+      "papers": [
+        "Cerchiai - Mapping the geometry of the F4 group.pdf"
+      ]
+    },
+    "G2": {
+      "type": "Lie Group",
+      "dimension": 14,
+      "rank": 2,
+      "description": "Smallest exceptional Lie group",
+      "related": [
+        "Octonions",
+        "Exceptional"
+      ],
+      "papers": [
+        "Cerchiai - Euler angles for G2.pdf"
+      ]
+    },
+    "BRST": {
+      "type": "Quantization Method",
+      "description": "Becchi-Rouet-Stora-Tyutin quantization",
+      "related": [
+        "Gauge Theory",
+        "Cohomology",
+        "Anomalies"
+      ],
+      "papers": [
+        "0209337.pdf",
+        "0703034.pdf",
+        "BRST2-6.pdf",
+        "LBaulieu_BRST.pdf",
+        "JHolten_BRST.pdf"
+      ]
+    },
+    "CliffordAlgebra": {
+      "type": "Algebraic Structure",
+      "description": "Geometric algebra generalizing complex numbers",
+      "related": [
+        "Spinors",
+        "Dirac",
+        "Quaternions"
+      ],
+      "papers": [
+        "0203010v2.pdf",
+        "0606122.pdf",
+        "0910.1828.pdf",
+        "Clifford Algebras and their Representations.pdf",
+        "Doran, Lasenby - Geometric Algebra for Physicists.pdf"
+      ]
+    },
+    "Supersymmetry": {
+      "type": "Symmetry",
+      "description": "Relating bosons and fermions",
+      "related": [
+        "Supergravity",
+        "Superstrings",
+        "MSSM"
+      ],
+      "papers": [
+        "0501191.pdf",
+        "0610039.pdf",
+        "0709.3851v1.pdf",
+        "Martin - A Supersymmetry Primer.pdf",
+        "Peskin - Supersymmetry in Elementary Particle Physics.pdf"
+      ]
+    },
+    "GaugeTheory": {
+      "type": "Field Theory",
+      "description": "Local symmetry principle",
+      "related": [
+        "Yang-Mills",
+        "Fiber Bundles",
+        "Connections"
+      ],
+      "papers": [
+        "0206136.pdf",
+        "0702134.pdf",
+        "Gauge Theory for Fiber Bundles.pdf",
+        "Geometrical aspects of local gauge symmetry.pdf"
+      ]
+    },
+    "GrandUnification": {
+      "type": "Theory",
+      "description": "Unifying fundamental forces",
+      "related": [
+        "GUT",
+        "SO(10)",
+        "SU(5)",
+        "E6"
+      ],
+      "papers": [
+        "0502443.pdf",
+        "Cahill - On the unification of the gravitational and electronuclear forces.pdf",
+        "Wingerter - Aspects of Grand Unification in Higher Dimensions.pdf"
+      ]
+    },
+    "Cohomology": {
+      "type": "Mathematical Tool",
+      "description": "Algebraic topology applied to physics",
+      "related": [
+        "BRST",
+        "Characteristic Classes",
+        "Anomalies"
+      ],
+      "papers": [
+        "0511120.pdf",
+        "0703034.pdf",
+        "On the Cohomological Structure of Gauge Theories.pdf",
+        "The BRST Complex and the Cohomology of Compact Lie Algebras.pdf"
+      ]
+    },
+    "StringTheory": {
+      "type": "Theory",
+      "description": "Fundamental strings as particle constituents",
+      "related": [
+        "M-Theory",
+        "Branes",
+        "Compactification"
+      ],
+      "papers": [
+        "0502182.pdf",
+        "9512215.pdf",
+        "9610068.pdf",
+        "9705123.pdf"
+      ]
+    }
+  },
+  "knowledge_graph": {
+    "nodes": [
+      {
+        "id": "E8",
+        "type": "Lie Group",
+        "properties": {
+          "description": "Largest exceptional Lie group",
+          "paper_count": 4
+        }
+      },
+      {
+        "id": "F4",
+        "type": "Lie Group",
+        "properties": {
+          "description": "Exceptional Lie group",
+          "paper_count": 1
+        }
+      },
+      {
+        "id": "G2",
+        "type": "Lie Group",
+        "properties": {
+          "description": "Smallest exceptional Lie group",
+          "paper_count": 1
+        }
+      },
+      {
+        "id": "BRST",
+        "type": "Quantization Method",
+        "properties": {
+          "description": "Becchi-Rouet-Stora-Tyutin quantization",
+          "paper_count": 5
+        }
+      },
+      {
+        "id": "CliffordAlgebra",
+        "type": "Algebraic Structure",
+        "properties": {
+          "description": "Geometric algebra generalizing complex numbers",
+          "paper_count": 5
+        }
+      },
+      {
+        "id": "Supersymmetry",
+        "type": "Symmetry",
+        "properties": {
+          "description": "Relating bosons and fermions",
+          "paper_count": 5
+        }
+      },
+      {
+        "id": "GaugeTheory",
+        "type": "Field Theory",
+        "properties": {
+          "description": "Local symmetry principle",
+          "paper_count": 4
+        }
+      },
+      {
+        "id": "GrandUnification",
+        "type": "Theory",
+        "properties": {
+          "description": "Unifying fundamental forces",
+          "paper_count": 3
+        }
+      },
+      {
+        "id": "Cohomology",
+        "type": "Mathematical Tool",
+        "properties": {
+          "description": "Algebraic topology applied to physics",
+          "paper_count": 4
+        }
+      },
+      {
+        "id": "StringTheory",
+        "type": "Theory",
+        "properties": {
+          "description": "Fundamental strings as particle constituents",
+          "paper_count": 4
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "E8",
+        "target": "F4",
+        "relation": "related_to"
+      },
+      {
+        "source": "E8",
+        "target": "G2",
+        "relation": "related_to"
+      },
+      {
+        "source": "E8",
+        "target": "E6",
+        "relation": "related_to"
+      },
+      {
+        "source": "E8",
+        "target": "E7",
+        "relation": "related_to"
+      },
+      {
+        "source": "E8",
+        "target": "Exceptional",
+        "relation": "related_to"
+      },
+      {
+        "source": "F4",
+        "target": "E6",
+        "relation": "related_to"
+      },
+      {
+        "source": "F4",
+        "target": "E8",
+        "relation": "related_to"
+      },
+      {
+        "source": "F4",
+        "target": "Exceptional",
+        "relation": "related_to"
+      },
+      {
+        "source": "G2",
+        "target": "Octonions",
+        "relation": "related_to"
+      },
+      {
+        "source": "G2",
+        "target": "Exceptional",
+        "relation": "related_to"
+      },
+      {
+        "source": "BRST",
+        "target": "Gauge Theory",
+        "relation": "related_to"
+      },
+      {
+        "source": "BRST",
+        "target": "Cohomology",
+        "relation": "related_to"
+      },
+      {
+        "source": "BRST",
+        "target": "Anomalies",
+        "relation": "related_to"
+      },
+      {
+        "source": "CliffordAlgebra",
+        "target": "Spinors",
+        "relation": "related_to"
+      },
+      {
+        "source": "CliffordAlgebra",
+        "target": "Dirac",
+        "relation": "related_to"
+      },
+      {
+        "source": "CliffordAlgebra",
+        "target": "Quaternions",
+        "relation": "related_to"
+      },
+      {
+        "source": "Supersymmetry",
+        "target": "Supergravity",
+        "relation": "related_to"
+      },
+      {
+        "source": "Supersymmetry",
+        "target": "Superstrings",
+        "relation": "related_to"
+      },
+      {
+        "source": "Supersymmetry",
+        "target": "MSSM",
+        "relation": "related_to"
+      },
+      {
+        "source": "GaugeTheory",
+        "target": "Yang-Mills",
+        "relation": "related_to"
+      },
+      {
+        "source": "GaugeTheory",
+        "target": "Fiber Bundles",
+        "relation": "related_to"
+      },
+      {
+        "source": "GaugeTheory",
+        "target": "Connections",
+        "relation": "related_to"
+      },
+      {
+        "source": "GrandUnification",
+        "target": "GUT",
+        "relation": "related_to"
+      },
+      {
+        "source": "GrandUnification",
+        "target": "SO(10)",
+        "relation": "related_to"
+      },
+      {
+        "source": "GrandUnification",
+        "target": "SU(5)",
+        "relation": "related_to"
+      },
+      {
+        "source": "GrandUnification",
+        "target": "E6",
+        "relation": "related_to"
+      },
+      {
+        "source": "Cohomology",
+        "target": "BRST",
+        "relation": "related_to"
+      },
+      {
+        "source": "Cohomology",
+        "target": "Characteristic Classes",
+        "relation": "related_to"
+      },
+      {
+        "source": "Cohomology",
+        "target": "Anomalies",
+        "relation": "related_to"
+      },
+      {
+        "source": "StringTheory",
+        "target": "M-Theory",
+        "relation": "related_to"
+      },
+      {
+        "source": "StringTheory",
+        "target": "Branes",
+        "relation": "related_to"
+      },
+      {
+        "source": "StringTheory",
+        "target": "Compactification",
+        "relation": "related_to"
+      }
+    ]
+  },
+  "total_papers": 95,
+  "metadata": {
+    "collection": "E8 True Knowledge",
+    "source": "98 mathematical physics papers",
+    "date_range": "1993-2011"
+  }
+}

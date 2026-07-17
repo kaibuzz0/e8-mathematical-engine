@@ -1,0 +1,83 @@
+{
+  "collection_name": "E8 True Knowledge",
+  "description": "Advanced mathematical physics collection focused on E8, Lie groups, gauge theory, and exceptional structures",
+  "total_documents": 98,
+  "total_size_mb": 177.01,
+  "date_range": "1993-2011",
+  "categories": {
+    "E8_Theory": {
+      "description": "Exceptional Lie group E8 - 248 dimensional structure",
+      "papers": ["0002245.pdf", "0011255.pdf", "1103922136.pdf", "1104161738.pdf"]
+    },
+    "Lie_Groups": {
+      "description": "Lie group theory, representations, and Lie algebras",
+      "papers": [
+        "Loeh - Representation Theory of Lie Algebras.pdf",
+        "Semi-Simple Lie Algebras and Their Representation.pdf",
+        "Cerchiai - Euler angles for G2.pdf",
+        "Cerchiai - Mapping the geometry of the F4 group.pdf",
+        "Kostant Brylinski - Nilpotent Orbits, Normality, and Hamiltonian Group Actions.pdf"
+      ]
+    },
+    "Gauge_Theory": {
+      "description": "BRST quantization, gauge symmetries, and fiber bundles",
+      "papers": [
+        "LBaulieu_BRST.pdf",
+        "JHolten_BRST.pdf",
+        "A Differential Geometric Setting for BRS Transformations and Anomalies.pdf",
+        "A Geometric Interpretation of BRST symmetry.pdf",
+        "Gauge Theory for Fiber Bundles.pdf",
+        "Geometrical aspects of local gauge symmetry.pdf"
+      ]
+    },
+    "Supersymmetry": {
+      "description": "Supergravity, superstrings, and supersymmetric theories",
+      "papers": [
+        "Group Geometric Methods in Supergravity and Superstring Theories.pdf",
+        "Martin - A Supersymmetry Primer.pdf",
+        "Peskin - Supersymmetry in Elementary Particle Physics.pdf",
+        "physicsnotes-supergeo.pdf"
+      ]
+    },
+    "Clifford_Algebra": {
+      "description": "Geometric algebra and Clifford representations",
+      "papers": [
+        "Doran, Lasenby - Geometric Algebra for Physicists (2003).pdf",
+        "Clifford Algebras and their Representations.pdf"
+      ]
+    },
+    "Particle_Physics": {
+      "description": "Standard Model and particle physics data",
+      "papers": [
+        "PDG - Review of Particle Physics.pdf (76MB)",
+        "MH Standard Model.pdf",
+        "Standard Model.pdf",
+        "standard model (short).pdf"
+      ]
+    },
+    "Grand_Unification": {
+      "description": "GUT theories and force unification",
+      "papers": [
+        "Cahill - On the unification of the gravitational and electronuclear forces.pdf",
+        "Wingerter - Aspects of Grand Unification in Higher Dimensions.pdf"
+      ]
+    },
+    "Mathematical_Physics": {
+      "description": "Core mathematical physics foundations",
+      "papers": [
+        "Topics in Differential Geometry.pdf",
+        "Natural Operations in Differential Geometry.pdf",
+        "The Variational Bicomplex.pdf",
+        "Sternberg - Toronto Lectures on Physics.pdf"
+      ]
+    }
+  },
+  "key_insights": {
+    "E8_Significance": "E8 is the largest exceptional Lie group with 248 dimensions, appearing in string theory and Garrett Lisi's Theory of Everything",
+    "Lie_Hierarchy": "F4, G2, E6, E7, E8 - exceptional Lie groups beyond classical series",
+    "BRST": "Becchi-Rouet-Stora-Tyutin quantization method for gauge theories",
+    "Geometric_Algebra": "Doran & Lasenby's comprehensive 600-page treatise",
+    "Supersymmetry": "Connecting bosons and fermions through supercharge operators"
+  },
+  "research_value": "This collection contains advanced mathematical physics spanning Lie theory, gauge quantization, and exceptional structures critical to modern theoretical physics"
+}
